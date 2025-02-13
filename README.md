@@ -1,3 +1,15 @@
-//I demonstrate the implementation of a Student Grade Tracker program in Java. The program allows users to input student names and their corresponding grades. Once the data is entered, the program calculates and displays the average score, highest score, and lowest score among the students.
-Student Grade tracker 
-I demonstrate the implementation of a Student Grade Tracker program in Java. The program allows users to input student names and their corresponding grades. Once the data is entered, the program calculates and displays the average score, highest score, and lowest score among the students.
+Student Grade Tracker
+Description: This project helps manage student grades and calculate the overall performance based on input scores. It can handle multiple students and various subjects.
+
+Technologies Used: Java
+
+Installation:
+
+Clone the repository: bash git clone https://github.com/sushu39/ StudentGradeTracker.git
+
+Navigate to the project folder: bash cd StudentGradeTracker
+
+Compile and run the Java code: bash javac StudentGradeTracker.java java StudentGradeTracker
+
+Usage: Enter student names and grades for different subjects to track performance.
+
