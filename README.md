@@ -5,7 +5,7 @@ Technologies Used: Java
 
 Installation:
 
-Clone the repository: bash git clone https://github.com/sushu39/ StudentGradeTracker.git
+Clone the repository: bash git clone https://github.com/sushu39/StudentGradeTracker.git
 
 Navigate to the project folder: bash cd StudentGradeTracker
 
